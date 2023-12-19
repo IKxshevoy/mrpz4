@@ -1,0 +1,11 @@
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\bin\Debug\net6.0\MusicManagement.deps.json
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\bin\Debug\net6.0\MusicManagement.dll
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\bin\Debug\net6.0\MusicManagement.pdb
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.AssemblyInfoInputs.cache
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.AssemblyInfo.cs
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.csproj.CoreCompileInputs.cache
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.dll
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\refint\MusicManagement.dll
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\MusicManagement.pdb
+C:\Users\freez\source\repos\MusicManagement\MusicManagement\obj\Debug\net6.0\ref\MusicManagement.dll

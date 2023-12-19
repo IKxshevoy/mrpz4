@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQre/cOc4qv65t16eqa30VBGuzRC9RcNjipN2y5oIMuCa2CXzd2N8+qStF5WX9Sen7kirflS/k95h62iqur9NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\freez\\source\\repos\\MusicManagement\\MusicManagementConsole\\MusicManagementConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\freez\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
